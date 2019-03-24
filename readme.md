@@ -1,6 +1,8 @@
 # AXIOS
+Axios adalah library untuk menghubungkan antara lumen dan vue.js. Jadi lumen akan menjadi Backendnya dan vue yang akan menjadi frontendnya. Nah penghubungnya itu pakai axios.
 
-Aplikasi yang dibuat untuk menambahkan siswa.
+##Deskripsi Program
+Aplikasi yang dibuat untuk menambahkan siswa dan kelas.
 
 ##Author
 Hega Cendikia Elanda
