@@ -7,3 +7,6 @@ Aplikasi yang dibuat untuk menambahkan siswa dan kelas.
 ## Author
 Hega Cendikia Elanda
 XII RPL 3
+
+### note
+frontend : https://github.com/HegaCendikiaElanda/frontend
