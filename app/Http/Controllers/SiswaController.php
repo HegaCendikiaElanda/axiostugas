@@ -123,4 +123,19 @@ class SiswaController extends Controller
         }
     }
 
+    public function detail ($id){
+        $siswa = Siswa::find($id);
+        if (empty($siswa)) {
+            return[
+                'status' => 'error',
+                'message' => 'Data Tidak Ditemukan',
+                'result' => null
+            ];
+        }
+        return[
+            'status' => 'success',
+            'result' => $siswa
+        ];
+    }
+
 }
